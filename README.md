@@ -31,4 +31,10 @@ Inspiration, was man hier alles eintragen könnte
 - Begriffe definieren und erklären (z.B. repository, branch, Umgang mit merge-Konflikten etc.)
 - git Befehle für die Arbeit mit lokalen Repositories auflisten (z.B. `git init` bis `git merge --abort`)
 - git Befehle für die Arbeit mit entfernten Repositories auflisten (z.B. `git clone` bis `$ git push --set-upstream origin/develop`)
--
+
+# Einführung
+
+Was ist GitHub
+GitHub ist eine auf git basierende Web-Anwendung, mit der Softwareprojekte verwaltet werden können. Sie dient unter anderem dazu, ein Backup der geschriebenen Software sowie Zugriff auf vorherige Versionen zu haben. 
+Weiterhin wird die Zusammenarbeit mehrerer Personen an einem Projekt vereinfacht.
+Wer bereits GitLab oder Bitbucket verwendet hat, dem wird der Umgang mit GitHub vertraut sein.
