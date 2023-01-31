@@ -30,7 +30,7 @@ Inspiration, was man hier alles eintragen könnte
 - git Befehle für die Arbeit mit lokalen Repositories auflisten (z.B. `git init` bis `git merge --abort`)
 - git Befehle für die Arbeit mit entfernten Repositories auflisten (z.B. `git clone` bis `$ git push --set-upstream origin/develop`)
 -
-#Git Befehle
+# Git Befehle
 
 Git init: Mit dem Befehl git init wird ein neues Git-Repository erstellt.
 Er kann zur Konvertierung eines bestehenden, nicht versionierten Projekts in ein Git-Repository oder zum Initialisieren eines neuen, 
@@ -38,3 +38,6 @@ leeren Repositorys genutzt werden.
 
 Git status: Der Befehl git status gibt den Status des Arbeitsverzeichnisse und der Staging Umgebung zurück.
 So kannst du sehen, welche Änderungen sich in der Staging-Umgebung befinden, welche nicht und welche Datein nicht von Git verfolgt werden.
+
+Git log: Der Befehl git log listet die Historie der Commits eines Projektes in umgekehrter chronologischer Reihenfolge auf,
+wenn man ihn ohne weitere Argumente ausführt, dass heißt die letzten Commits stehen oben.
