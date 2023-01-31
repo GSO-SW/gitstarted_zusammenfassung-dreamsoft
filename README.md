@@ -1,3 +1,5 @@
+#Aufgabenstellung:
+
 # git Zusammenfassung
 In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git und gitHub kennen sollte.  Sie dürfen die gesamte Datei verändern (Sie dürfen alle vorhandenen Text entfernen). **Schaffen Sie eine gute Lerngrundlage bzw. ein Nachschlagewerk!**
 
